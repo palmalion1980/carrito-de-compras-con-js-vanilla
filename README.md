@@ -11,8 +11,6 @@ El proyecto incluye la funcionalidad de un **carrito de compras totalmente funci
 - 📋 Listado de cursos con imagen, título y precio
 - ➕ Botón para agregar cursos al carrito
 - 🗑️ Opción para eliminar elementos del carrito
-- 🧮 Cálculo automático del total
-- 💾 Persistencia usando `localStorage`
 - 🧼 Vaciar el carrito completo
 - 💡 Interfaz simple y fácil de entender
 
