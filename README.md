@@ -38,7 +38,9 @@ El proyecto incluye la funcionalidad de un **carrito de compras totalmente funci
 2.- Abre el archivo index.html en tu navegador web.
 
 ¡Y listo! Podrás probar el carrito de compras directamente desde tu navegador.
-🧱 Futuras mejoras (ideas para escalar)
+
+
+## 🧱 Futuras mejoras (ideas para escalar)
 Integración con pasarela de pago
 
 Página de detalle para cada curso
@@ -49,14 +51,14 @@ Sistema de usuarios y autenticación
 
 Diseño responsive
 
-📌 Nota
+## 📌 Nota
 Este proyecto fue realizado con fines educativos, pero su estructura permite ser escalada fácilmente para proyectos más avanzados.
 
-👨‍💻 Autor
-palmalion1980
+## 👨‍💻 Autor
+Marco León
 GitHub Profile
 
-📄 Licencia
+## 📄 Licencia
 MIT License
 
 
